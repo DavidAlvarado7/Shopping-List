@@ -1,0 +1,15 @@
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/bin/Debug/net7.0/SHOPPING LIST - OCT 26
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/bin/Debug/net7.0/SHOPPING LIST - OCT 26.deps.json
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/bin/Debug/net7.0/SHOPPING LIST - OCT 26.runtimeconfig.json
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/bin/Debug/net7.0/SHOPPING LIST - OCT 26.dll
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/bin/Debug/net7.0/SHOPPING LIST - OCT 26.pdb
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/SHOPPING LIST - OCT 26.csproj.AssemblyReference.cache
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/SHOPPING LIST - OCT 26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/SHOPPING LIST - OCT 26.AssemblyInfoInputs.cache
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/SHOPPING LIST - OCT 26.AssemblyInfo.cs
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/SHOPPING LIST - OCT 26.csproj.CoreCompileInputs.cache
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/SHOPPING LIST - OCT 26.dll
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/refint/SHOPPING LIST - OCT 26.dll
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/SHOPPING LIST - OCT 26.pdb
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/SHOPPING LIST - OCT 26.genruntimeconfig.cache
+/Users/david/Projects/SHOPPING LIST - OCT 26/SHOPPING LIST - OCT 26/obj/Debug/net7.0/ref/SHOPPING LIST - OCT 26.dll
